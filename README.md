@@ -5,7 +5,7 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
 - First Prediction: August 2024
   
 ## Project Structure
-- 📁 **[AI](https://github.com/jadehamel/Predictions/tree/main/AI/) (2)**
+- 📂 **[AI](https://github.com/jadehamel/Predictions/tree/main/AI/) (2)**
   - 📂 [Artificial General Intelligence (AGI)](https://github.com/jadehamel/Predictions/tree/main/AI/Artificial%20General%20Intelligence%20(AGI)/) (1)
     - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/AI/Artificial%20General%20Intelligence%20(AGI)/README.md) (1)
   - 📁 [Creative Industries](https://github.com/jadehamel/Predictions/tree/main/AI/Creative%20Industries/)
@@ -13,29 +13,33 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
   - 📁 [Healthcare](https://github.com/jadehamel/Predictions/tree/main/AI/Healthcare/)
   - 📂 [Machine learning](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/) (1)
     - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/README.md) (1)
-- 📁 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment)**
+- 📂 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment)**
     - 📁 [Climate policies and agreements](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment/Climate%20policies%20and%20agreements)
     - 📁 [Impact on biodiversity](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment/Impact%20on%20biodiversity)
     - 📁 [Innovations in sustainability](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment/Innovations%20in%20sustainability)
     - 📁 [Renewable energy adoption](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment/Renewable%20energy%20adoption)
-- 📁 **[ECONOMY](https://github.com/jadehamel/Predictions/tree/main/Economy/) (1)**
+- 📂 **[ECONOMY](https://github.com/jadehamel/Predictions/tree/main/Economy/) (1)**
   - 📁 [Automation and job](https://github.com/jadehamel/Predictions/tree/main/Economy/Automation%20and%20job)
   - 📁 [Cryptocurrency](https://github.com/jadehamel/Predictions/tree/main/Economy/Cryptocurrency)
   - 📁 [Global trade dynamics](https://github.com/jadehamel/Predictions/tree/main/Economy/Global%20trade%20dynamics)
   - 📁 [Income inequality](https://github.com/jadehamel/Predictions/tree/main/Economy/Income%20inequality)
   - 📂 [Universal Basic Income (UBI](https://github.com/jadehamel/Predictions/tree/main/Economy/Universal%20Basic%20Income%20(UBI)/) (1)
     - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Economy/Universal%20Basic%20Income%20(UBI)/README.md) (1)
-- 📁 **[EDUCATION](https://github.com/jadehamel/Predictions/tree/main/Education/)**
-- 📁 **[ENERGY](https://github.com/jadehamel/Predictions/tree/main/Energy/)**
-- 📁 **[ENTERTAINMENT](https://github.com/jadehamel/Predictions/tree/main/Entertainment/)**
-- 📁 **[FOOD AND AGRICULTURE](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/)**
-- 📁 **[GEOPOLITICS AND GLOBAL RELATIONS](https://github.com/jadehamel/Predictions/tree/main/Geopolitics%20and%20Global%20Relations/)**
-- 📁 **[HEALTH AND MEDECINE](https://github.com/jadehamel/Predictions/tree/main/Health%20and%20Medicine/)**
-- 📁 **[HUMAN RIGHTS AND GOVERNANCE](https://github.com/jadehamel/Predictions/tree/main/Human%20Rights%20and%20Governance/)**
-- 📁 **[SCIENCE AND INNOVATION](https://github.com/jadehamel/Predictions/tree/main/Science%20and%20Innovation/)**
-- 📁 **[SOCIETY AND CULTURE](https://github.com/jadehamel/Predictions/tree/main/Society%20and%20Culture/)**
-- 📁 **[SPACE EXPLORATION AND COLONIZATION](https://github.com/jadehamel/Predictions/tree/main/Space%20Exploration%20and%20Colonization/)**
-- 📁 **[SPORT](https://github.com/jadehamel/Predictions/tree/main/Sport/)**
+- 📂 **[EDUCATION](https://github.com/jadehamel/Predictions/tree/main/Education/)**
+  - 📁 [Accessibility](https://github.com/jadehamel/Predictions/tree/main/Education/Accessibility)
+  - 📁 [Future skills](https://github.com/jadehamel/Predictions/tree/main/Education/Future%20skills)
+  - 📁 [Impact of technology](https://github.com/jadehamel/Predictions/tree/main/Education/Impact%20of%20technology)
+  - 📁 [Online learning](https://github.com/jadehamel/Predictions/tree/main/Education/Online%20learning)
+- 📂 **[ENERGY](https://github.com/jadehamel/Predictions/tree/main/Energy/)**
+- 📂 **[ENTERTAINMENT](https://github.com/jadehamel/Predictions/tree/main/Entertainment/)**
+- 📂 **[FOOD AND AGRICULTURE](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/)**
+- 📂 **[GEOPOLITICS AND GLOBAL RELATIONS](https://github.com/jadehamel/Predictions/tree/main/Geopolitics%20and%20Global%20Relations/)**
+- 📂 **[HEALTH AND MEDECINE](https://github.com/jadehamel/Predictions/tree/main/Health%20and%20Medicine/)**
+- 📂 **[HUMAN RIGHTS AND GOVERNANCE](https://github.com/jadehamel/Predictions/tree/main/Human%20Rights%20and%20Governance/)**
+- 📂 **[SCIENCE AND INNOVATION](https://github.com/jadehamel/Predictions/tree/main/Science%20and%20Innovation/)**
+- 📂 **[SOCIETY AND CULTURE](https://github.com/jadehamel/Predictions/tree/main/Society%20and%20Culture/)**
+- 📂 **[SPACE EXPLORATION AND COLONIZATION](https://github.com/jadehamel/Predictions/tree/main/Space%20Exploration%20and%20Colonization/)**
+- 📂 **[SPORT](https://github.com/jadehamel/Predictions/tree/main/Sport/)**
 - 📂 **[TECHNOLOGY](https://github.com/jadehamel/Predictions/tree/main/Technology/) (1)**
   - 📁 [5G and beyond](https://github.com/jadehamel/Predictions/tree/main/Technology/5G%20and%20beyond/)
   - 📁 [Augmented reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Augmented%20reality/)
@@ -45,7 +49,7 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
       - 📂 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/) (1)
         - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/README.md) (1)
   - 📁 [Virtual reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Virtual%20reality/)
-- 📁 **[TRANSPORTATION AND INFRASTRUCTURE](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/)**
+- 📂 **[TRANSPORTATION AND INFRASTRUCTURE](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/)**
 ## About
 
 Predicting the future is both a fascinating and challenging endeavor. This project aims to harness the collective wisdom and diverse perspectives of contributors worldwide to forecast the trajectory of key global subjects. From advancements in technology and shifts in the economy to climate change impacts and societal transformations, we seek to explore the potential futures that await us.
