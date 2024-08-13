@@ -1,8 +1,6 @@
 # Humanoids
 - 1 prediction
-
-# Structure
-- 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/README.md) (1)
+- First Prediction: August 2024
 
 ### Prediction 1:
 - Original: August 2024
