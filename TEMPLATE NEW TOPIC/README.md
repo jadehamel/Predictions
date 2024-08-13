@@ -3,7 +3,7 @@
 
 # [Replace with the specific global topic]
 
-### Prediction topic Structure
+## Prediction topic Structure
 - Add +1 to the topic count ex: (1) -> (2)
 - Update the structure in the project root and in the topic folder
 
