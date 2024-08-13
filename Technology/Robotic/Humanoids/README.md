@@ -1,6 +1,6 @@
 # Humanoids
 
-### Prediction:
+### Prediction 1:
 - Original: August 2024
 - Updated: 2024-08-13
 
