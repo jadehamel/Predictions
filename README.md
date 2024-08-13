@@ -39,7 +39,7 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
   - 📁 [Gaming](https://github.com/jadehamel/Predictions/tree/main/Entertainment/Gaming)
   - 📁 [Movies](https://github.com/jadehamel/Predictions/tree/main/Entertainment/Movies)
   - 📁 [Nightlife](https://github.com/jadehamel/Predictions/tree/main/Entertainment/Nightlife)
-- 📂 **[FOOD AND AGRICULTURE]
+- 📂 **[FOOD AND AGRICULTURE](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture)**
   - 📁 [Farming and urban agriculture](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/Food%20security%20and%20distribution)
   - 📁 [Food security and distribution](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/Genetically%20modified%20organisms%20(GMOs))
   - 📁 [Genetically modified organisms (GMOs)](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/Genetically%20modified%20organisms%20(GMOs))
