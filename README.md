@@ -1,4 +1,6 @@
 # Predictions of the Future
+- 4 Predictions
+- First Prediction: August 2024
 
 Welcome to the Predictions of the Future project! This repository is dedicated to collecting and discussing predictions about various global subjects that are expected to undergo significant changes in the future.
 
