@@ -2,7 +2,7 @@
 - 1 prediction
 
 #  Structure
-- 📁 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/) (1)
+- 📂 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/) (1)
   - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/README.md) (1)
 
 # Add a first prediction about this topic
