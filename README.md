@@ -31,6 +31,10 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
   - 📁 [Impact of technology](https://github.com/jadehamel/Predictions/tree/main/Education/Impact%20of%20technology)
   - 📁 [Online learning](https://github.com/jadehamel/Predictions/tree/main/Education/Online%20learning)
 - 📂 **[ENERGY](https://github.com/jadehamel/Predictions/tree/main/Energy/)**
+  - 📁 [Global policies](https://github.com/jadehamel/Predictions/tree/main/Energy/Global%20policies)
+  - 📁 [Nuclear fusion developments](https://github.com/jadehamel/Predictions/tree/main/Energy/Nuclear%20fusion%20developments)
+  - 📁 [Storage advancements](https://github.com/jadehamel/Predictions/tree/main/Energy/Storage%20advancements)
+  - 📁 [Transition to green energy sources](https://github.com/jadehamel/Predictions/tree/main/Energy/Transition%20to%20green%20energy%20sources)
 - 📂 **[ENTERTAINMENT](https://github.com/jadehamel/Predictions/tree/main/Entertainment/)**
 - 📂 **[FOOD AND AGRICULTURE](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/)**
 - 📂 **[GEOPOLITICS AND GLOBAL RELATIONS](https://github.com/jadehamel/Predictions/tree/main/Geopolitics%20and%20Global%20Relations/)**
