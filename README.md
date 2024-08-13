@@ -2,6 +2,30 @@
 
 Welcome to the Predictions of the Future project! This repository is dedicated to collecting and discussing predictions about various global subjects that are expected to undergo significant changes in the future.
 
+## Project Structure
+
+📁 [Technology](./Technology/)
+  - 🗅 empty
+
+  - 📁 [5G and beyond](./5G%20and%20beyond/)
+    - 🗅 empty
+
+  - 📁 [Augmented reality](./Augmented%20reality/)
+    - 🗅 empty
+
+  - 📁 [Internet of Things (IoT)](./Internet%20of%20Things%20(IoT)/)
+    - 🗅 empty
+
+  - 📁 [Quantum computing](./Quantum%20computing/)
+    - 🗅 empty
+
+  - 📁 [Robotic](./Robotic/)
+    - 📁 [Humanoids](./Robotic/Humanoids/)
+      - 📄 [Predictions](./Robotic/Humanoids/README.md)
+
+  - 📁 [Virtual reality](./Virtual%20reality/)
+    - 🗅 empty
+
 ## About
 
 Predicting the future is both a fascinating and challenging endeavor. This project aims to harness the collective wisdom and diverse perspectives of contributors worldwide to forecast the trajectory of key global subjects. From advancements in technology and shifts in the economy to climate change impacts and societal transformations, we seek to explore the potential futures that await us.
