@@ -15,6 +15,12 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
     - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/README.md) (1)
 - 📁 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment%20/)**
 - 📁 **[ECONOMY](https://github.com/jadehamel/Predictions/tree/main/Economy/) (1)**
+  - 📁 [Automation and job](https://github.com/jadehamel/Predictions/tree/main/Economy/Automation%20and%20job)
+  - 📁 [Cryptocurrency](https://github.com/jadehamel/Predictions/tree/main/Economy/Cryptocurrency)
+  - 📁 [Global trade dynamics](https://github.com/jadehamel/Predictions/tree/main/Economy/Global%20trade%20dynamics)
+  - 📁 [Income inequality](https://github.com/jadehamel/Predictions/tree/main/Economy/Income%20inequality)
+  - 📂 [Universal Basic Income (UBI](https://github.com/jadehamel/Predictions/tree/main/Economy/Universal%20Basic%20Income%20(UBI)/) (1)
+    - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Economy/Universal%20Basic%20Income%20(UBI)/README.md) (1)
 - 📁 **[EDUCATION](https://github.com/jadehamel/Predictions/tree/main/Education/)**
 - 📁 **[ENERGY](https://github.com/jadehamel/Predictions/tree/main/Energy/)**
 - 📁 **[ENTERTAINMENT](https://github.com/jadehamel/Predictions/tree/main/Entertainment/)**
