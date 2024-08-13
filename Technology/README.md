@@ -1,5 +1,6 @@
 # Technology
 - 1 prediction
+- First Prediction: August 2024
 
 #  Structure
 - 📁 [5G and beyond](https://github.com/jadehamel/Predictions/tree/main/Technology/5G%20and%20beyond/)
