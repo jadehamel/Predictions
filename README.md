@@ -4,7 +4,7 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
 
 ## Project Structure
 
-**📁 [Technology](https://github.com/jadehamel/Predictions/Technology/)**
+📁 **[TECHNOLOGY](https://github.com/jadehamel/Predictions/Technology/)**
   - 📁 [5G and beyond](https://github.com/jadehamel/Predictions/5G%20and%20beyond/)
   - 📁 [Augmented reality](https://github.com/jadehamel/Predictions/Augmented%20reality/)
   - 📁 [Internet of Things (IoT)](https://github.com/jadehamel/Predictions/Internet%20of%20Things%20(IoT)/)
