@@ -36,6 +36,9 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
   - 📁 [Storage advancements](https://github.com/jadehamel/Predictions/tree/main/Energy/Storage%20advancements)
   - 📁 [Transition to green energy sources](https://github.com/jadehamel/Predictions/tree/main/Energy/Transition%20to%20green%20energy%20sources)
 - 📂 **[ENTERTAINMENT](https://github.com/jadehamel/Predictions/tree/main/Entertainment/)**
+  - 📁 [Gaming](https://github.com/jadehamel/Predictions/tree/main/Entertainment/Gaming)
+  - 📁 [Movies](https://github.com/jadehamel/Predictions/tree/main/Entertainment/Movies)
+  - 📁 [Nightlife](https://github.com/jadehamel/Predictions/tree/main/Entertainment/Nightlife)
 - 📂 **[FOOD AND AGRICULTURE](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/)**
 - 📂 **[GEOPOLITICS AND GLOBAL RELATIONS](https://github.com/jadehamel/Predictions/tree/main/Geopolitics%20and%20Global%20Relations/)**
 - 📂 **[HEALTH AND MEDECINE](https://github.com/jadehamel/Predictions/tree/main/Health%20and%20Medicine/)**
