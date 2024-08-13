@@ -1,9 +1,9 @@
 # Predictions of the Future
-- 4 Predictions
-- First Prediction: August 2024
 
 Welcome to the Predictions of the Future project! This repository is dedicated to collecting and discussing predictions about various global subjects that are expected to undergo significant changes in the future.
-
+- 4 Predictions
+- First Prediction: August 2024
+  
 ## Project Structure
 📁 **[AI](https://github.com/jadehamel/Predictions/tree/main/AI/) (2)**
 📁 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment%20/)**
@@ -45,6 +45,11 @@ Contributions to this repository are open to everyone. Whether you're an expert 
 
 ## How to Contribute
 
+### First Prediction in a topic
+- [USE THE TEMPLATE](https://github.com/jadehamel/Predictions/blob/main/TEMPLATE%20NEW%20TOPIC/README.md)
+- Replace the file (README.md) in the prediction topic folder with the template including your prediction
+
+### Adding a prediction
 1. Fork this repository to your GitHub account.
 2. Create a new branch (`git checkout -b predictions-branch`).
 3. Make your changes (add predictions, create discussions, etc.).
