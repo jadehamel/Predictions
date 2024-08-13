@@ -3,9 +3,9 @@
 Welcome to the Predictions of the Future project! This repository is dedicated to collecting and discussing predictions about various global subjects that are expected to undergo significant changes in the future.
 
 ## Project Structure
-📁 **[AI](https://github.com/jadehamel/Predictions/tree/main/AI/)**
+📁 **[AI](https://github.com/jadehamel/Predictions/tree/main/AI/) (2)**
 📁 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment%20/)**
-📁 **[ECONOMY](https://github.com/jadehamel/Predictions/tree/main/Economy/)**
+📁 **[ECONOMY](https://github.com/jadehamel/Predictions/tree/main/Economy/) (1)**
 📁 **[EDUCATION](https://github.com/jadehamel/Predictions/tree/main/Education/)**
 📁 **[ENERGY](https://github.com/jadehamel/Predictions/tree/main/Energy/)**
 📁 **[ENTERTAINMENT](https://github.com/jadehamel/Predictions/tree/main/Entertainment/)**
