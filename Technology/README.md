@@ -1,16 +1,31 @@
-# Topics with predictions
-📁[Robotic/](Robotic)
-  📄[Humanoids/README.md](Humanoids)
-📁[5G and beyong/](5G and beyond)
-  🗅 no prediction
-📁[/Augmented reality](Augmented reality)
-  🗅 no prediction
-📁[Internet of Things (IoT)/](Internet of Things (IoT))
-  🗅 no prediction
-📁[Quantum computing/](Quantum computing)
-  🗅 no prediction
-📁[Virtual reality/](Virtual reality)
-  🗅 no prediction
+# Technology Structure
+
+📁 [Robotic](Robotic/)
+
+	📁 [Humanoids](Robotic/Humanoids/)
+
+		📄 [Predictions](Robotic/Humanoids/README.md)
+
+📁 [5G and beyong](5G and beyond/)
+
+	🗅 empty
+
+📁 [Augmented reality](Augmented reality/)
+
+	🗅 empty
+
+📁 [Internet of Things (IoT)](Internet of 
+Things (IoT)/)
+
+	🗅 empty
+
+📁 [Quantum computing](Quantum computing/)
+
+	🗅 empty
+
+📁 [Virtual reality](Virtual reality/)
+
+	🗅 empty
 
 # Prediction Contribution Template
 
