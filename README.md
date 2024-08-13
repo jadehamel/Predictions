@@ -61,6 +61,11 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
         - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/README.md) (1)
   - 📁 [Virtual reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Virtual%20reality/)
 - 📂 **[TRANSPORTATION AND INFRASTRUCTURE](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/)**
+  - 📁 [Autonomous vehicles](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/Autonomous%20vehicles)
+  - 📁 [High-speed rail and hyperloop](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/High-speed%20rail%20and%20hyperloop)
+  - 📁 [Sustainable transportation solutions](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/Sustainable%20transportation%20solutions)
+  - 📁 [Urban planning and smart cities](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/Urban%20planning%20and%20smart%20cities)
+
 ## About
 
 Predicting the future is both a fascinating and challenging endeavor. This project aims to harness the collective wisdom and diverse perspectives of contributors worldwide to forecast the trajectory of key global subjects. From advancements in technology and shifts in the economy to climate change impacts and societal transformations, we seek to explore the potential futures that await us.
