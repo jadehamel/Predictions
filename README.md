@@ -3,17 +3,30 @@
 Welcome to the Predictions of the Future project! This repository is dedicated to collecting and discussing predictions about various global subjects that are expected to undergo significant changes in the future.
 
 ## Project Structure
-
-📁 **[TECHNOLOGY](https://github.com/jadehamel/Predictions/Technology/)**
-  - 📁 [5G and beyond](https://github.com/jadehamel/Predictions/5G%20and%20beyond/)
-  - 📁 [Augmented reality](https://github.com/jadehamel/Predictions/Augmented%20reality/)
-  - 📁 [Internet of Things (IoT)](https://github.com/jadehamel/Predictions/Internet%20of%20Things%20(IoT)/)
-  - 📁 [Quantum computing](https://github.com/jadehamel/Predictions/Quantum%20computing/)
-  - 📁 [Robotic](https://github.com/jadehamel/Predictions/Robotic/)
-    - 📁 [Humanoids](https://github.com/jadehamel/Predictions/Robotic/Humanoids/)
-      - 📄 [Predictions](https://github.com/jadehamel/Predictions/Robotic/Humanoids/README.md) (1)
-  - 📁 [Virtual reality](https://github.com/jadehamel/Predictions/Virtual%20reality/)
-
+📁 **[AI](https://github.com/jadehamel/Predictions/tree/main/AI/)**
+📁 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment%20/)**
+📁 **[ECONOMY](https://github.com/jadehamel/Predictions/tree/main/Economy/)**
+📁 **[EDUCATION](https://github.com/jadehamel/Predictions/tree/main/Education/)**
+📁 **[ENERGY](https://github.com/jadehamel/Predictions/tree/main/Energy/)**
+📁 **[ENTERTAINMENT](https://github.com/jadehamel/Predictions/tree/main/Entertainment/)**
+📁 **[FOOD AND AGRICULTURE](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/)**
+📁 **[GEOPOLITICS AND GLOBAL RELATIONS](https://github.com/jadehamel/Predictions/tree/main/Geopolitics%20and%20Global%20Relations/)**
+📁 **[HEALTH AND MEDECINE](https://github.com/jadehamel/Predictions/tree/main/Health%20and%20Medicine/)**
+📁 **[HUMAN RIGHTS AND GOVERNANCE](https://github.com/jadehamel/Predictions/tree/main/Human%20Rights%20and%20Governance/)**
+📁 **[SCIENCE AND INNOVATION](https://github.com/jadehamel/Predictions/tree/main/Science%20and%20Innovation/)**
+📁 **[SOCIETY AND CULTURE](https://github.com/jadehamel/Predictions/tree/main/Society%20and%20Culture/)**
+📁 **[SPACE EXPLORATION AND COLONIZATION](https://github.com/jadehamel/Predictions/tree/main/Space%20Exploration%20and%20Colonization/)**
+📁 **[SPORT](https://github.com/jadehamel/Predictions/tree/main/Sport/)**
+📁 **[TECHNOLOGY](https://github.com/jadehamel/Predictions/tree/main/Technology/) (1)**
+  - 📁 [5G and beyond](https://github.com/jadehamel/Predictions/tree/main/5G%20and%20beyond/)
+  - 📁 [Augmented reality](https://github.com/jadehamel/Predictions/tree/main/Augmented%20reality/)
+  - 📁 [Internet of Things (IoT)](https://github.com/jadehamel/Predictions/tree/main/Internet%20of%20Things%20(IoT)/)
+  - 📁 [Quantum computing](https://github.com/jadehamel/Predictions/tree/main/Quantum%20computing/)
+  - 📁 [Robotic](https://github.com/jadehamel/Predictions/tree/main/Robotic/)
+    - 📁 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Robotic/Humanoids/)
+      - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Robotic/Humanoids/README.md) (1)
+  - 📁 [Virtual reality](https://github.com/jadehamel/Predictions/tree/main/Virtual%20reality/)
+📁 **[TRANSPORTATION AND INFRASTRUCTURE](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/)**
 ## About
 
 Predicting the future is both a fascinating and challenging endeavor. This project aims to harness the collective wisdom and diverse perspectives of contributors worldwide to forecast the trajectory of key global subjects. From advancements in technology and shifts in the economy to climate change impacts and societal transformations, we seek to explore the potential futures that await us.
