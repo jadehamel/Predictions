@@ -1,6 +1,9 @@
 # Artificial General Intelligence (AGI)
+- 1 prediction
 
-### Prediction:
+### Prediction 1:
+- Original: August 2024
+- Updated: 2024-08-13
 
 AGI will begin to emerge in 2025, with initial deployments being made available to governments and large corporations. This will be followed by broader public availability in the subsequent years, leading to transformative changes in every aspect of society.
 
