@@ -13,7 +13,7 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
   - 📁 [Healthcare](https://github.com/jadehamel/Predictions/tree/main/AI/Healthcare/)
   - 📂 [Machine learning](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/) (1)
     - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/README.md) (1)
-- 📁 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment%20/)**
+- 📁 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment)**
 - 📁 **[ECONOMY](https://github.com/jadehamel/Predictions/tree/main/Economy/) (1)**
   - 📁 [Automation and job](https://github.com/jadehamel/Predictions/tree/main/Economy/Automation%20and%20job)
   - 📁 [Cryptocurrency](https://github.com/jadehamel/Predictions/tree/main/Economy/Cryptocurrency)
