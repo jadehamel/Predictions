@@ -5,26 +5,14 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
 ## Project Structure
 
 📁 [Technology](./Technology/)
-  - 🗅 empty
-
   - 📁 [5G and beyond](./5G%20and%20beyond/)
-    - 🗅 empty
-
   - 📁 [Augmented reality](./Augmented%20reality/)
-    - 🗅 empty
-
   - 📁 [Internet of Things (IoT)](./Internet%20of%20Things%20(IoT)/)
-    - 🗅 empty
-
   - 📁 [Quantum computing](./Quantum%20computing/)
-    - 🗅 empty
-
   - 📁 [Robotic](./Robotic/)
     - 📁 [Humanoids](./Robotic/Humanoids/)
       - 📄 [Predictions](./Robotic/Humanoids/README.md) (1)
-
   - 📁 [Virtual reality](./Virtual%20reality/)
-    - 🗅 empty
 
 ## About
 
