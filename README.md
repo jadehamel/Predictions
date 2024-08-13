@@ -24,9 +24,9 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
   - 📁 [Augmented reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Augmented%20reality/)
   - 📁 [Internet of Things (IoT)](https://github.com/jadehamel/Predictions/tree/main/Technology/Internet%20of%20Things%20(IoT)/)
   - 📁 [Quantum computing](https://github.com/jadehamel/Predictions/tree/main/Technology/Quantum%20computing/)
-  - 📁 [Robotic](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/)
-    - 📁 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/)
-      - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/README.md) (1)
+    - 📁 [Robotic](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/) (1)
+      - 📁 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/) (1)
+        - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/README.md) (1)
   - 📁 [Virtual reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Virtual%20reality/)
 📁 **[TRANSPORTATION AND INFRASTRUCTURE](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/)**
 ## About
