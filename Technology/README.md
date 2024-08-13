@@ -1,6 +1,20 @@
+# Topics with predictions
+📁[Robotic/](Robotic)
+  📄[Humanoids/README.md](Humanoids)
+📁[5G and beyong/](5G and beyond)
+  🗅 no prediction
+📁[/Augmented reality](Augmented reality)
+  🗅 no prediction
+📁[Internet of Things (IoT)/](Internet of Things (IoT))
+  🗅 no prediction
+📁[Quantum computing/](Quantum computing)
+  🗅 no prediction
+📁[Virtual reality/](Virtual reality)
+  🗅 no prediction
+
 # Prediction Contribution Template
 
-## Topic: [Replace with the specific global topic]
+# [Replace with the specific global topic]
 
 ### Prediction:
 
