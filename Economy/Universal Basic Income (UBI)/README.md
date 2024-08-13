@@ -1,6 +1,9 @@
 # Universal Basic Income (UBI)
+- 1 prediction
 
-### Prediction:
+### Prediction 1:
+- Original: August 2024
+- Updated: 2024-08-13
 
 In the next 10 years, we will see an increasing number of pilot programs and small-scale implementations of Universal Basic Income (UBI) across various countries. These experiments will pave the way for more widespread adoption, with some nations potentially establishing UBI as a permanent policy by 2035.
 
