@@ -14,6 +14,10 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
   - 📂 [Machine learning](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/) (1)
     - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/README.md) (1)
 - 📁 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment)**
+    - 📁 [Climate policies and agreements](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment/Climate%20policies%20and%20agreements)
+    - 📁 [Impact on biodiversity](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment/Impact%20on%20biodiversity)
+    - 📁 [Innovations in sustainability](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment/Innovations%20in%20sustainability)
+    - 📁 [Renewable energy adoption](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment/Renewable%20energy%20adoption)
 - 📁 **[ECONOMY](https://github.com/jadehamel/Predictions/tree/main/Economy/) (1)**
   - 📁 [Automation and job](https://github.com/jadehamel/Predictions/tree/main/Economy/Automation%20and%20job)
   - 📁 [Cryptocurrency](https://github.com/jadehamel/Predictions/tree/main/Economy/Cryptocurrency)
