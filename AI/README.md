@@ -1,5 +1,6 @@
 # Artificial Intelligence (AI)
 - 2 predictions
+- First Prediction: August 2024
 
 #  Structure
 - 📂 [Artificial General Intelligence (AGI)](https://github.com/jadehamel/Predictions/tree/main/AI/Artificial%20General%20Intelligence%20(AGI)/) (1)
