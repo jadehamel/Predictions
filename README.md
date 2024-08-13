@@ -21,7 +21,7 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
 
   - 📁 [Robotic](./Robotic/)
     - 📁 [Humanoids](./Robotic/Humanoids/)
-      - 📄 [Predictions](./Robotic/Humanoids/README.md)
+      - 📄 [Predictions](./Robotic/Humanoids/README.md) (1)
 
   - 📁 [Virtual reality](./Virtual%20reality/)
     - 🗅 empty
