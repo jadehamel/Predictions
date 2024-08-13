@@ -1,8 +1,21 @@
 # Prediction Contribution Template
+**Remove the title above when adding a first prediction
 
-## Topic: [Replace with the specific global topic]
+# [Replace with the specific global topic]
+
+### Prediction topic Structure
+- Add +1 to the topic count ex: (1) -> (2)
+- Update the structure in the project root and in the topic folder
+
+📁 [TEMPLATE NEW TOPIC](https://github.com/jadehamel/Predictions/tree/main/TEMPLATE%20NEW%20TOPIC/) (1)
+  - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/TEMPLATE%20NEW%20TOPIC/README.md) (1)
 
 ### Prediction:
+- Number of predictions in the present topic ex: [1 prediction] 
+
+### Prediction 1:
+- Original: [Month and Year of prediction] ex: [August 2024]
+- Updated: [Today date] ex: [2024-08-13]
 
 [Replace with your prediction about the future of the topic. Be concise and specific.]
 
