@@ -18,14 +18,14 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
 📁 **[SPACE EXPLORATION AND COLONIZATION](https://github.com/jadehamel/Predictions/tree/main/Space%20Exploration%20and%20Colonization/)**
 📁 **[SPORT](https://github.com/jadehamel/Predictions/tree/main/Sport/)**
 📁 **[TECHNOLOGY](https://github.com/jadehamel/Predictions/tree/main/Technology/) (1)**
-  - 📁 [5G and beyond](https://github.com/jadehamel/Predictions/tree/main/5G%20and%20beyond/)
-  - 📁 [Augmented reality](https://github.com/jadehamel/Predictions/tree/main/Augmented%20reality/)
-  - 📁 [Internet of Things (IoT)](https://github.com/jadehamel/Predictions/tree/main/Internet%20of%20Things%20(IoT)/)
-  - 📁 [Quantum computing](https://github.com/jadehamel/Predictions/tree/main/Quantum%20computing/)
-  - 📁 [Robotic](https://github.com/jadehamel/Predictions/tree/main/Robotic/)
-    - 📁 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Robotic/Humanoids/)
-      - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Robotic/Humanoids/README.md) (1)
-  - 📁 [Virtual reality](https://github.com/jadehamel/Predictions/tree/main/Virtual%20reality/)
+  - 📁 [5G and beyond](https://github.com/jadehamel/Predictions/tree/main/Technology/5G%20and%20beyond/)
+  - 📁 [Augmented reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Augmented%20reality/)
+  - 📁 [Internet of Things (IoT)](https://github.com/jadehamel/Predictions/tree/main/Technology/Internet%20of%20Things%20(IoT)/)
+  - 📁 [Quantum computing](https://github.com/jadehamel/Predictions/tree/main/Technology/Quantum%20computing/)
+  - 📁 [Robotic](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/)
+    - 📁 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/)
+      - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/README.md) (1)
+  - 📁 [Virtual reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Virtual%20reality/)
 📁 **[TRANSPORTATION AND INFRASTRUCTURE](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/)**
 ## About
 
