@@ -8,7 +8,7 @@
 - 📁 [Ethics and regulation](https://github.com/jadehamel/Predictions/tree/main/AI/Ethics%20and%20regulation/)
 - 📁 [Healthcare](https://github.com/jadehamel/Predictions/tree/main/AI/Healthcare/)
 - 📂 [Machine learning](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/) (1)
-    - 📄 [Predictions] (1)
+    - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/README.md) (1)
 
 # Add a first prediction about this topic
 - [USE THE TEMPLATE](https://github.com/jadehamel/Predictions/blob/main/TEMPLATE%20NEW%20TOPIC/README.md)
