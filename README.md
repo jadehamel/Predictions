@@ -39,7 +39,11 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
   - 📁 [Gaming](https://github.com/jadehamel/Predictions/tree/main/Entertainment/Gaming)
   - 📁 [Movies](https://github.com/jadehamel/Predictions/tree/main/Entertainment/Movies)
   - 📁 [Nightlife](https://github.com/jadehamel/Predictions/tree/main/Entertainment/Nightlife)
-- 📂 **[FOOD AND AGRICULTURE](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/)**
+- 📂 **[FOOD AND AGRICULTURE]
+  - 📁 [Farming and urban agriculture](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/Food%20security%20and%20distribution)
+  - 📁 [Food security and distribution](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/Genetically%20modified%20organisms%20(GMOs))
+  - 📁 [Genetically modified organisms (GMOs)](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/Genetically%20modified%20organisms%20(GMOs))
+  - 📁 [Impact of climate change](https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/Impact%20of%20climate%20change)(https://github.com/jadehamel/Predictions/tree/main/Food%20and%20Agriculture/)**
 - 📂 **[GEOPOLITICS AND GLOBAL RELATIONS](https://github.com/jadehamel/Predictions/tree/main/Geopolitics%20and%20Global%20Relations/)**
 - 📂 **[HEALTH AND MEDECINE](https://github.com/jadehamel/Predictions/tree/main/Health%20and%20Medicine/)**
 - 📂 **[HUMAN RIGHTS AND GOVERNANCE](https://github.com/jadehamel/Predictions/tree/main/Human%20Rights%20and%20Governance/)**
