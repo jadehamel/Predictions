@@ -1,6 +1,8 @@
 # Humanoids
 
-### Prediction:
+### Prediction (August 2024):
+- Original: August 2024
+- Updated: 2024-08-13
 
 Over the next 10 years, humanoid robots will become increasingly sophisticated and prevalent in various sectors, including healthcare, customer service, and personal assistance. By 2035, these robots will play a significant role in everyday life, with advanced capabilities in natural language processing, emotional intelligence, and physical interaction, making them indispensable companions and coworkers.
 
