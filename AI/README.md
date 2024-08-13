@@ -6,8 +6,8 @@
     - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/AI/Artificial%20General%20Intelligence%20(AGI)/README.md) (1)
 - 📁 [Creative Industries](https://github.com/jadehamel/Predictions/tree/main/AI/Creative%20Industries/)
 - 📁 [Ethics and regulation](https://github.com/jadehamel/Predictions/tree/main/AI/Ethics%20and%20regulation/)
-- 📁 [](https://github.com/jadehamel/Predictions/tree/main/AI/Healthcare/)
-- 📂 [Machine learning](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning)/) (1)
+- 📁 [Healthcare](https://github.com/jadehamel/Predictions/tree/main/AI/Healthcare/)
+- 📂 [Machine learning](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/) (1)
     - 📄 [Predictions] (1)
 
 # Add a first prediction about this topic
