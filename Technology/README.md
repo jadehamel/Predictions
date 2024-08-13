@@ -1,19 +1,23 @@
 # Technology Structure
 
 📁 [5G and beyond](./5G%20and%20beyond/)
+  - 🗅 empty
 
-	🗅 empty
 📁 [Augmented reality](./Augmented%20reality/)
-	🗅 empty
+  - 🗅 empty
+
 📁 [Internet of Things (IoT)](./Internet%20of%20Things%20(IoT)/)
-	🗅 empty
+  - 🗅 empty
+
 📁 [Quantum computing](./Quantum%20computing/)
-	🗅 empty	
+  - 🗅 empty
+
 📁 [Robotic](./Robotic/)
-	📁 [Humanoids](./Robotic/Humanoids/)
-		📄 [Predictions](Robotic/Humanoids/README.md)
+  - 📁 [Humanoids](./Robotic/Humanoids/)
+    - 📄 [Predictions](./Robotic/Humanoids/README.md)
+
 📁 [Virtual reality](./Virtual%20reality/)
-	🗅 empty
+  - 🗅 empty
 
 # Prediction Contribution Template
 
