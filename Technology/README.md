@@ -6,8 +6,8 @@
 - 📁 [Augmented reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Augmented%20reality/)
 - 📁 [Internet of Things (IoT)](https://github.com/jadehamel/Predictions/tree/main/Technology/Internet%20of%20Things%20(IoT)/)
 - 📁 [Quantum computing](https://github.com/jadehamel/Predictions/tree/main/Technology/Quantum%20computing/)
-- 📁 [Robotic](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/) (1)
-  - 📁 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/) (1)
+- 📂 [Robotic](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/) (1)
+  - 📂 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/) (1)
     - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/README.md) (1)
 - 📁 [Virtual reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Virtual%20reality/)
 
