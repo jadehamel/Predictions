@@ -6,7 +6,7 @@
 
 ## Prediction topic Structure
 - Add +1 to the topic count ex: (1) -> (2)
-- Update the structure in the project root and in the topic folder
+- Update the structure in the project root and the topic folder
 
 📁 [TEMPLATE NEW TOPIC](https://github.com/jadehamel/Predictions/tree/main/TEMPLATE%20NEW%20TOPIC/) (1)
   - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/TEMPLATE%20NEW%20TOPIC/README.md) (1)
