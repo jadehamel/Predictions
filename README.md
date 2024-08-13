@@ -6,6 +6,13 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
   
 ## Project Structure
 - 📁 **[AI](https://github.com/jadehamel/Predictions/tree/main/AI/) (2)**
+  - 📂 [Artificial General Intelligence (AGI)](https://github.com/jadehamel/Predictions/tree/main/AI/Artificial%20General%20Intelligence%20(AGI)/) (1)
+    - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/AI/Artificial%20General%20Intelligence%20(AGI)/README.md) (1)
+  - 📁 [Creative Industries](https://github.com/jadehamel/Predictions/tree/main/AI/Creative%20Industries/)
+  - 📁 [Ethics and regulation](https://github.com/jadehamel/Predictions/tree/main/AI/Ethics%20and%20regulation/)
+  - 📁 [Healthcare](https://github.com/jadehamel/Predictions/tree/main/AI/Healthcare/)
+  - 📂 [Machine learning](https://github.com/jadehamel/Predictions/tree/main/AI/Machine%20learning/) (1)
+    - 📄 [Predictions] (1)
 - 📁 **[CLIMATE CHANGE AND ENVIRONMENT](https://github.com/jadehamel/Predictions/tree/main/Climate%20Change%20and%20Environment%20/)**
 - 📁 **[ECONOMY](https://github.com/jadehamel/Predictions/tree/main/Economy/) (1)**
 - 📁 **[EDUCATION](https://github.com/jadehamel/Predictions/tree/main/Education/)**
