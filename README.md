@@ -5,7 +5,7 @@ Welcome to the Predictions of the Future project! This repository is dedicated t
 - First Prediction: August 2024
   
 ## Project Structure
-- 📂 **[AI](https://github.com/jadehamel/Predictions/tree/main/AI/) (2)**
+- 📂 **[Artificial Intelligence (AI)](https://github.com/jadehamel/Predictions/tree/main/AI/) (2)**
   - 📂 [Artificial General Intelligence (AGI)](https://github.com/jadehamel/Predictions/tree/main/AI/Artificial%20General%20Intelligence%20(AGI)/) (1)
     - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/AI/Artificial%20General%20Intelligence%20(AGI)/README.md) (1)
   - 📁 [Creative Industries](https://github.com/jadehamel/Predictions/tree/main/AI/Creative%20Industries/)
