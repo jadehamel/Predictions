@@ -1,65 +1,14 @@
-# Prediction Contribution Template
+# Transportation and Infrastructure
+- 0 predictions
+- First prediction: Add a month and a year. Ex: (August 2024)
 
-## Topic: [Replace with the specific global topic]
+#  Structure
+- 📁 [Autonomous vehicles](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/Autonomous%20vehicles)
+- 📁 [High-speed rail and hyperloop](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/High-speed%20rail%20and%20hyperloop)
+- 📁 [Sustainable transportation solutions](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/Sustainable%20transportation%20solutions)
+- 📁 [Urban planning and smart cities](https://github.com/jadehamel/Predictions/tree/main/Transportation%20and%20Infrastructure/Urban%20planning%20and%20smart%20cities)
 
-### Prediction:
-
-[Replace with your prediction about the future of the topic. Be concise and specific.]
-
-### Rationale:
-
-[Provide reasoning or evidence to support your prediction. Include relevant data, trends, or insights.]
-
-### Implications:
-
-[Discuss the potential implications of your prediction. How might it impact society, technology, economy, or other relevant aspects?]
-
-### Sources:
-
-- [List any sources or references that support your prediction. Include links where possible.]
-
-### Contributor Information:
-
-- **Name:** Jade Hamel
-- **Affiliation:** Pineapple.fans
-- **Contact:** https://jadehamel.fr
-
-New contributor, add your informations
-- **Name:** [Your name or pseudonym]
-- **Affiliation:** [Your organization, if applicable]
-- **Contact:** [Your preferred contact information, such as email or social media handle]
----
-
-### Discussion Points:
-
-- [List any discussion points related to your prediction. Encourage others to provide feedback or alternative viewpoints.]
-
----
-
-### How to Contribute
-
-1. Fork this repository and create a new branch (`git checkout -b prediction-topic`).
-2. Copy this template and fill in the details with your prediction.
-3. Commit your changes (`git commit -am 'Added prediction about [topic]'`).
-4. Push to the branch (`git push origin prediction-topic`).
-5. Submit a pull request with a descriptive title and detailed description of your prediction.
-
----
-
-#### Guidelines for Contributions
-
-- Ensure predictions are based on credible sources and analysis.
-- Respectful and constructive discussions are encouraged.
-- Provide clear and concise information to facilitate understanding and engagement.
-
----
-
-#### License
-
-This project is licensed under the [MIT License](LICENSE), allowing for reuse and modification with proper attribution.
-
----
-
-#### Acknowledgments
-
+# Add a first prediction about this topic
+- [USE THE TEMPLATE](https://github.com/jadehamel/Predictions/blob/main/TEMPLATE%20NEW%20TOPIC/README.md)
+- Replace this file (README.md) with the template including your prediction
 - Built with the collaborative spirit of open-source communities.
