@@ -1,65 +1,16 @@
-# Prediction Contribution Template
+# Economy
+- 1 prediction
+- First prediction: August 2024
 
-## Topic: [Replace with the specific global topic]
+#  Structure
+- 📁 [Automation and job](https://github.com/jadehamel/Predictions/tree/main/Economy/Automation%20and%20job)
+- 📁 [Cryptocurrency](https://github.com/jadehamel/Predictions/tree/main/Economy/Cryptocurrency)
+- 📁 [Global trade dynamics](https://github.com/jadehamel/Predictions/tree/main/Economy/Global%20trade%20dynamics)
+- 📁 [Income inequality](https://github.com/jadehamel/Predictions/tree/main/Economy/Income%20inequality)
+- 📂 [Universal Basic Income (UBI](https://github.com/jadehamel/Predictions/tree/main/Economy/Universal%20Basic%20Income%20(UBI)/) (1)
+    - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Economy/Universal%20Basic%20Income%20(UBI)/README.md) (1)
 
-### Prediction:
-
-[Replace with your prediction about the future of the topic. Be concise and specific.]
-
-### Rationale:
-
-[Provide reasoning or evidence to support your prediction. Include relevant data, trends, or insights.]
-
-### Implications:
-
-[Discuss the potential implications of your prediction. How might it impact society, technology, economy, or other relevant aspects?]
-
-### Sources:
-
-- [List any sources or references that support your prediction. Include links where possible.]
-
-### Contributor Information:
-
-- **Name:** Jade Hamel
-- **Affiliation:** Pineapple.fans
-- **Contact:** https://jadehamel.fr
-
-New contributor, add your informations
-- **Name:** [Your name or pseudonym]
-- **Affiliation:** [Your organization, if applicable]
-- **Contact:** [Your preferred contact information, such as email or social media handle]
----
-
-### Discussion Points:
-
-- [List any discussion points related to your prediction. Encourage others to provide feedback or alternative viewpoints.]
-
----
-
-### How to Contribute
-
-1. Fork this repository and create a new branch (`git checkout -b prediction-topic`).
-2. Copy this template and fill in the details with your prediction.
-3. Commit your changes (`git commit -am 'Added prediction about [topic]'`).
-4. Push to the branch (`git push origin prediction-topic`).
-5. Submit a pull request with a descriptive title and detailed description of your prediction.
-
----
-
-#### Guidelines for Contributions
-
-- Ensure predictions are based on credible sources and analysis.
-- Respectful and constructive discussions are encouraged.
-- Provide clear and concise information to facilitate understanding and engagement.
-
----
-
-#### License
-
-This project is licensed under the [MIT License](LICENSE), allowing for reuse and modification with proper attribution.
-
----
-
-#### Acknowledgments
-
+# Add a first prediction about this topic
+- [USE THE TEMPLATE](https://github.com/jadehamel/Predictions/blob/main/TEMPLATE%20NEW%20TOPIC/README.md)
+- Replace this file (README.md) with the template including your prediction
 - Built with the collaborative spirit of open-source communities.
