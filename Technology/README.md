@@ -1,23 +1,12 @@
 # Technology Structure
-
-📁 [5G and beyond](./5G%20and%20beyond/)
-  - 🗅 empty
-
-📁 [Augmented reality](./Augmented%20reality/)
-  - 🗅 empty
-
-📁 [Internet of Things (IoT)](./Internet%20of%20Things%20(IoT)/)
-  - 🗅 empty
-
-📁 [Quantum computing](./Quantum%20computing/)
-  - 🗅 empty
-
-📁 [Robotic](./Robotic/)
-  - 📁 [Humanoids](./Robotic/Humanoids/)
-    - 📄 [Predictions](./Robotic/Humanoids/README.md)
-
-📁 [Virtual reality](./Virtual%20reality/)
-  - 🗅 empty
+- 📁 [5G and beyond](https://github.com/jadehamel/Predictions/tree/main/Technology/5G%20and%20beyond/)
+- 📁 [Augmented reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Augmented%20reality/)
+- 📁 [Internet of Things (IoT)](https://github.com/jadehamel/Predictions/tree/main/Technology/Internet%20of%20Things%20(IoT)/)
+- 📁 [Quantum computing](https://github.com/jadehamel/Predictions/tree/main/Technology/Quantum%20computing/)
+- 📁 [Robotic](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/)
+- 📁 [Humanoids](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/)
+  - 📄 [Predictions](https://github.com/jadehamel/Predictions/tree/main/Technology/Robotic/Humanoids/README.md) (1)
+- 📁 [Virtual reality](https://github.com/jadehamel/Predictions/tree/main/Technology/Virtual%20reality/)
 
 # Prediction Contribution Template
 
